@@ -18,4 +18,5 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+<img src="https://github.com/DevRafaSantos/cibersecurity-desafio-phishing/blob/master/Phishing_Kali_Facebook.JPG" width=260/>
+<img src="https://github.com/DevRafaSantos/cibersecurity-desafio-phishing/blob/master/Phishing_pagina_falsa.JPG" width=260/>
